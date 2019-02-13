@@ -16,7 +16,7 @@ Creación de servidor rest para peticiones get, put, push, delete
 
 ## Contribución
 
-Por favor lea [Contribucion.md](CONTRIBUCION.md) para más detalle de nuestro código.
+Por favor lea [CONTRIBUCION.md](CONTRIBUCION.md) para más detalle de nuestro código.
 
 ## Versión
 
